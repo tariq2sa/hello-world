@@ -1,4 +1,3 @@
-# hello-world
-testing hello world
-Some changes to the file
+# Hello World
 
+Testing hello world repository (now private).
